@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle thera-device-panel",
+        "command": "thera-device-panel:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "thera-device-panel",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "thera-device-panel:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
