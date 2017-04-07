@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "--activationCommands": {
+  "activationCommands": {
     "atom-workspace": "thera-device-panel:toggle"
   },
   "repository": "https://github.com/atom/thera-device-panel",
