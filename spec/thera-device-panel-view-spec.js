@@ -2,7 +2,7 @@
 
 import TheraDevicePanelView from '../lib/thera-device-panel-view';
 
-describe('TheraDevicePanelView', () => {
+describe('DevicePanelView', () => {
   it('has one valid test', () => {
     expect('life').toBe('easy');
   });
