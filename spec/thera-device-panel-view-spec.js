@@ -1,6 +1,6 @@
 'use babel';
 
-import TheraDevicePanelView from '../lib/thera-device-panel-view';
+import TheraDevicePanelView from '../lib/views/thera-device-panel-view';
 
 describe('DevicePanelView', () => {
   it('has one valid test', () => {
